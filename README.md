@@ -83,4 +83,4 @@ Designing real-world webpages
 
 
 this the screenshot of this page
-<img src=""
+<img src="file:///C:/Users/vipul/Downloads/webdevlopment%20syllabus/laudary%20shop.html">
